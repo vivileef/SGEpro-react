@@ -8,13 +8,13 @@ El sistema permite a estudiantes, tutores académicos, tutores empresariales y c
 
 ## ✨ Características Principales
 
-- **Gestión de Usuarios por Rol** : Sistema de roles diferenciado para estudiantes, tutores y coordinadores
-- **Asignación de Tutores** : Proceso automatizado y eficiente de asignación tutor-estudiante
-- **Seguimiento de Avances**: Monitoreo en tiempo real del progreso de las prácticas
-- **Generación de Reportes**: Visualización de datos y estadísticas comprensivas
-- **Interfaz Responsiva**: Adaptable a dispositivos móviles, tablets y desktop
-- **Seguridad Integrada**: Autenticación y autorización por roles
-- **Rendimiento Optimizado**: Carga rápida y navegación fluida
+- 👥 **Gestión de Usuarios por Rol** : Sistema de roles diferenciado para estudiantes, tutores y coordinadores
+- 🎯 **Asignación de Tutores** : Proceso automatizado y eficiente de asignación tutor-estudiante
+- 📈 **Seguimiento de Avances**: Monitoreo en tiempo real del progreso de las prácticas
+- 📊 **Generación de Reportes**: Visualización de datos y estadísticas comprensivas
+- 📱 **Interfaz Responsiva**: Adaptable a dispositivos móviles, tablets y desktop
+- 🔒 **Seguridad Integrada**: Autenticación y autorización por roles
+- ⚡ **Rendimiento Optimizado**: Carga rápida y navegación fluida
 
 ---
 
