@@ -1,8 +1,4 @@
 SGEpro-react
-<div align="center">
-  <h2>🎓 Sistema Web para la Gestión de Prácticas Preprofesionales</h2>
-  <p>Una plataforma moderna y centralizada para la administración integral de prácticas preprofesionales</p>
-</div>
 📋 Descripción
 SGEpro-react es una aplicación web desarrollada con tecnologías de vanguardia que facilita la administración completa de las prácticas preprofesionales dentro de instituciones educativas.
 El sistema permite a estudiantes, tutores académicos, tutores empresariales y coordinadores interactuar a través de una plataforma centralizada, moderna y completamente responsiva, optimizando los procesos administrativos y de seguimiento académico.
